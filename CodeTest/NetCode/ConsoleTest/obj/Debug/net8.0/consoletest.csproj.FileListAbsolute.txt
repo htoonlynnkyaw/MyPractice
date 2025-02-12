@@ -1,0 +1,14 @@
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.GeneratedMSBuildEditorConfig.editorconfig
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.AssemblyInfoInputs.cache
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.AssemblyInfo.cs
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.csproj.CoreCompileInputs.cache
+d:\CodeTest\NETCode\ConsoleTest\bin\Debug\net8.0\consoletest.exe
+d:\CodeTest\NETCode\ConsoleTest\bin\Debug\net8.0\consoletest.deps.json
+d:\CodeTest\NETCode\ConsoleTest\bin\Debug\net8.0\consoletest.runtimeconfig.json
+d:\CodeTest\NETCode\ConsoleTest\bin\Debug\net8.0\consoletest.dll
+d:\CodeTest\NETCode\ConsoleTest\bin\Debug\net8.0\consoletest.pdb
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.dll
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\refint\consoletest.dll
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.pdb
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\consoletest.genruntimeconfig.cache
+d:\CodeTest\NETCode\ConsoleTest\obj\Debug\net8.0\ref\consoletest.dll

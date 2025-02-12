@@ -1,0 +1,14 @@
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\SecondConsole\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll

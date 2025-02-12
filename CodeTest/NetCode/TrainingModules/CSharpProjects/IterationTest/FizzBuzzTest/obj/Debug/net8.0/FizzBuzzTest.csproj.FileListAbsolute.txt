@@ -1,0 +1,14 @@
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.AssemblyInfoInputs.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.AssemblyInfo.cs
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.csproj.CoreCompileInputs.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\bin\Debug\net8.0\FizzBuzzTest.exe
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\bin\Debug\net8.0\FizzBuzzTest.deps.json
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\bin\Debug\net8.0\FizzBuzzTest.runtimeconfig.json
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\bin\Debug\net8.0\FizzBuzzTest.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\bin\Debug\net8.0\FizzBuzzTest.pdb
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\refint\FizzBuzzTest.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.pdb
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\FizzBuzzTest.genruntimeconfig.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\FizzBuzzTest\obj\Debug\net8.0\ref\FizzBuzzTest.dll

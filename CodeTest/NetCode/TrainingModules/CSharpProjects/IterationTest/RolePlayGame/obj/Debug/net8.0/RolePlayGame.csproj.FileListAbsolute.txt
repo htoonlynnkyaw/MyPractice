@@ -1,0 +1,14 @@
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\bin\Debug\net8.0\RolePlayGame.exe
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\bin\Debug\net8.0\RolePlayGame.deps.json
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\bin\Debug\net8.0\RolePlayGame.runtimeconfig.json
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\bin\Debug\net8.0\RolePlayGame.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\bin\Debug\net8.0\RolePlayGame.pdb
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.AssemblyInfoInputs.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.AssemblyInfo.cs
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.csproj.CoreCompileInputs.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\refint\RolePlayGame.dll
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.pdb
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\RolePlayGame.genruntimeconfig.cache
+D:\CodeTest\NETCode\TrainingModules\CSharpProjects\IterationTest\RolePlayGame\obj\Debug\net8.0\ref\RolePlayGame.dll

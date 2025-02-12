@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "CodeBlocks.sln",
+    "dotnet.automaticallySyncWithActiveItem": true,
+    "dotnet.preferVisualStudioCodeFileSystemWatcher": false
+}
